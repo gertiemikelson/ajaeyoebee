@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quasiophae.mintfor.design/sitemap.xml
